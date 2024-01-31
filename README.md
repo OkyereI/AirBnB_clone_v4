@@ -1,8 +1,3 @@
-# AirBnB Clone v4 (The Holberton B&B)
-
-<img src="https://github.com/johncoleman83/AirBnB_clone/raw/master/dev/HBTN-hbnb-Final.png" width="200px">
-
-<img src="https://s3.amazonaws.com/intranet-projects-files/concepts/74/hbnb_step5.png" width="600px">
 
 ### Description
 Project attempts to clone the the AirBnB application and website, including the database, storage, RESTful API, Web Framework, and Front End.
@@ -15,15 +10,6 @@ Project attempts to clone the the AirBnB application and website, including the 
 * How to make a POST request with jQuery Ajax
 * How to listen/bind to DOM events
 * How to listen/bind to user events
-
-### Environment
-Our AirBnB clone has been tested on Ubuntu 14.05.5 LTS
-Tests done in VirtualBox on [Ubuntu](https://atlas.hashicorp.com/ubuntu/boxes/trusty64) via [Vagrant](https://www.vagrantup.com/)(1.9.1)
-
-### The console functionality
-* create your data model
-* manage (create, update, destroy, etc) objects via a console / command interpreter
-* store and persist objects to a file (JSON file)
 
 ## Console Execution
 First step is to clone the repository into your directory:
